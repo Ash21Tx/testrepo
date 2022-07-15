@@ -1,2 +1,3 @@
 # testrepo
-test codes for automation checks
+## editing the file 
+It's a markdown file in this repository
